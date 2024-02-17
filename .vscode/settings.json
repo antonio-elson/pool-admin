@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+}
